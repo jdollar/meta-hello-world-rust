@@ -1,0 +1,9 @@
+[package]
+name = "hello-world-rust"
+version = "0.1.0"
+authors = ["jdollar <dollarhidejoel@gmail.com>"]
+edition = "2018"
+description = "Simple hello world in rust to be built with yocto"
+repository = ""
+
+[dependencies]
